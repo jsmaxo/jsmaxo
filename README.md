@@ -13,7 +13,7 @@
 <img src="https://komarev.com/ghpvc/?username=jsmaxo&color=brightgreen" alt="watching_count" />
  </p>
 
-- 🌱 I’m currently learning **Python,DevOps,Flutter,Cloud technologies, and CI/CD pipelines**
+- 🌱 I’m currently learning **Python, DevOps,Flutter, Cloud technologies, and CI/CD pipelines**
 
 - 👯 I’m looking to collaborate on **Innovative DevOps or Flutter projects**
 
@@ -34,7 +34,7 @@
 
 <h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/http://www.linkedin.com/in/janith-nanayakkara-b3b390286" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="http://www.linkedin.com/in/janith-nanayakkara-b3b390286" height="40" width="50" /></a>
+<a href="https://www.linkedin.com/in/janith-nanayakkara-b3b390286/" target="blank"><img align="center" src="https://github.com/Scar1109/skill-icons/blob/main/icons/LinkedIn.svg" alt="http://www.linkedin.com/in/janith-nanayakkara-b3b390286" height="40" width="50" /></a>
 </p>
 
 <h3 align="left"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;"> Languages and Tools:</h3>
