@@ -5,21 +5,7 @@
   </ul>
 </div>
 
-<!--horizontal divider(gradiant)-->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<h3 align="center">A passionate learner exploring DevOps, Flutter, UI/UX, and front-end developer from Sri Lanka</h3>
 
-<p align="center"> 
-<img src="https://komarev.com/ghpvc/?username=jsmaxo&color=brightgreen" alt="watching_count" />
- </p>
-
-- 🌱 I’m currently learning **Python, DevOps,Flutter, Cloud technologies, and CI/CD pipelines**
-
-- 👯 I’m looking to collaborate on **Innovative DevOps or Flutter projects**
-
-- 💬 Ask me about **DevOps tools, or Flutter development!**
-
-- 📫 How to reach me **nanayakkaraj210@gmail.com**
 
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
