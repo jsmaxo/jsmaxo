@@ -138,12 +138,6 @@
 <!--   ⦿ Add Me on [Discord](https://discord.com/channels/@me) <br>
 
  -->
-<div align="center">
-
-### Show some ❤️ by starring some of the repositories!
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=monoscope&weight=500&size=30&duration=3000&pause=800&color=60F74D&background=5A56FF00&center=true&vCenter=true&width=435&lines=Thanks%2C+You're+Awesome+%3A)" alt="Typing SVG" /></a></p>
-
-
 
 <!--   ⦿ Add Me on [Discord](https://discord.com/channels/@me) <br>
    <p align="center"> <img src="https://media.giphy.com/media/jpVnC65DmYeyRL4LHS/giphy.gif" width="20%">
@@ -151,5 +145,3 @@
  -->
 
 
-#### Thanks for visiting :heart:
-![VisitorCount](https://profile-counter.glitch.me/rishikeshops/count.svg)
